@@ -7,6 +7,8 @@ function App() {
     <div>
       <div className="alert alert-primary mb-5" role="alert"><h1>Menu Restaurant</h1></div>
       <Menu/>
+      <Menu/>
+      <Menu/>
     </div>
   );
 }
